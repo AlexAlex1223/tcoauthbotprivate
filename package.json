@@ -1,0 +1,7 @@
+{
+  "name": "telegram-php-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "php -S 0.0.0.0:10000 bot.php"
+  }
+}
